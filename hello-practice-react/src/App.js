@@ -1,7 +1,7 @@
 import "./App.css";
-import MyComponent from "./MyComponent";
-import Counter from "./Counter";
-import Say from "./Say";
+import MyComponent from "./Component/MyComponent";
+import Counter from "./Component/Counter";
+import Say from "./Component/Say";
 
 const App = () => {
   return (
